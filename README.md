@@ -25,42 +25,43 @@
 
 <br/>
 
-## 👨‍💼 Executive Summary
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Summary" width="30" height="30" /> Executive Summary
 
-I am a final-year **B.E. Computer Science & Engineering** student dedicated to engineering high-quality, cross-platform mobile applications and robust web services. 
+I am a **B.E. Computer Science & Engineering** student at **Sri Eshwar College of Engineering**, dedicated to building high-quality, cross-platform mobile applications and robust web services.
 
-- 💼 **Professional Experience:** Completed two internships with a deep dive into Flutter architecture and mobile UI/UX.
-- 🚀 **Technical Expertise:** Architecting solutions with Flutter, React Native, and the MERN stack.
-- 🎯 **Current Focus:** Mastering Advanced Data Structures, Algorithms, and System Design principles.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> **Professional Experience:** 
+  - **MERN Stack Intern @ Rampex:** Developed full-stack web applications, integrating RESTful APIs and MongoDB.
+  - **Flutter Development Intern:** Built responsive UIs and implemented efficient state management and Firebase integration for cross-platform apps.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> **Technical Expertise:** Architecting solutions with Flutter, React Native, and the MERN stack.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="20" height="20" /> **Current Focus:** Mastering Data Structures & Algorithms (LeetCode Max Rating: 1560), Object-Oriented Programming, and System Design principles.
 
 <br/>
 
-## ⚔️ Technical Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> Technical Arsenal
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,dart,flutter,react,nodejs,express,mongodb,git,github,vscode&perline=6&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,dart,flutter,react,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,github,postman,docker,aws,vercel,androidstudio,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
   </a>
 </div>
 
 <br/>
 
-## 🏗️ Featured Architecture & Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Architecture & Projects
 
 <div align="center">
 
 | Project | Overview | Technology Stack |
 | :--- | :--- | :--- |
-| **Pokémon Battle Web App** | Real-time multiplayer battle simulator with WebSocket integration | `React` `Node.js` `Socket.io` `MongoDB` |
-| **VChat** | Low-latency, real-time communication platform | `React Native` `WebSockets` |
-| **SkyCast** | High-performance, intuitive weather tracking application | `Flutter` `REST APIs` |
-| **EduLearn AI** | Intelligent course recommendation engine and platform | `MongoDB` `Express` `React` `Node` |
+| **VChat** | Cross-platform messaging platform with real-time chat, media sharing, and push notifications. | `React Native` `Firebase` |
+| **EduLearn AI** | AI-driven e-learning platform with personalized course recommendations and secure auth. | `React Native` `Node.js` `MongoDB` |
+| **SkyCast** | Weather forecasting application with real-time updates and interactive visualizations. | `Flutter` `Dart` `REST APIs` |
 
 </div>
 
 <br/>
 
-## 📈 Open Source Contributions & Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Chart%20Increasing.png" alt="Chart" width="30" height="30" /> Open Source Contributions & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arjunjai10&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="48%" alt="GitHub Stats" />
