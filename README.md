@@ -1,91 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=Arjun%20Jai&fontSize=60&fontColor=ffffff&animation=twinkle&fontAlignY=35" width="100%"/>
+  <!-- Unique Animated Time-Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Arjun%20Jai&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Web&descAlignY=72&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+%7C+React+Native+%7C+MERN+Stack;Turning+Ideas+Into+Apps" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/arjun-jai-shanmugam-pvn-5788a1364/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:arjunjai655@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/Arjunjai10">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Crafting+Cross-Platform+Mobile+Apps;Building+Scalable+MERN+Backends;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
-
-I'm a final-year **B.E. Computer Science & Engineering** student passionate about building cross-platform mobile applications. I specialize in **Flutter**, **React Native**, and the **MERN stack**. 
-
-- 💼 **Experience:** Completed two internships, with a strong focus on Flutter development.
-- 🎯 **Current Focus:** Preparing for placements, focusing on **Data Structures & Algorithms (DSA)** and **System Design**.
-- 🌱 **Learning:** Always eager to learn new technologies and build impactful products.
+<div align="center">
+  <a href="mailto:arjunjai655@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0F172A" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/arjun-jai-shanmugam-pvn-5788a1364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0F172A" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Arjunjai10">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0F172A" alt="GitHub" />
+  </a>
+</div>
 
 <br/>
 
-## 🛠️ Tech Stack
+## 👨‍💼 Executive Summary
+
+I am a final-year **B.E. Computer Science & Engineering** student dedicated to engineering high-quality, cross-platform mobile applications and robust web services. 
+
+- 💼 **Professional Experience:** Completed two internships with a deep dive into Flutter architecture and mobile UI/UX.
+- 🚀 **Technical Expertise:** Architecting solutions with Flutter, React Native, and the MERN stack.
+- 🎯 **Current Focus:** Mastering Advanced Data Structures, Algorithms, and System Design principles.
+
+<br/>
+
+## ⚔️ Technical Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,dart,flutter,react,nodejs,express,mongodb,git,github,vscode&perline=6&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br/>
+
+## 🏗️ Featured Architecture & Projects
 
 <div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-
-### Frontend & Mobile
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-
-### Backend & Database
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
-### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
+| Project | Overview | Technology Stack |
 | :--- | :--- | :--- |
-| **🎮 Pokémon Battle Web App** | Full-stack real-time multiplayer battle simulator | `React`, `Node.js`, `Socket.io`, `MongoDB` |
-| **💬 VChat** | Real-time chat application for seamless communication | `React Native` |
-| **🌤️ SkyCast** | Sleek and intuitive weather application | `Flutter` |
-| **📚 EduLearn AI** | Smart course recommendation platform | `MERN Stack` |
+| **Pokémon Battle Web App** | Real-time multiplayer battle simulator with WebSocket integration | `React` `Node.js` `Socket.io` `MongoDB` |
+| **VChat** | Low-latency, real-time communication platform | `React Native` `WebSockets` |
+| **SkyCast** | High-performance, intuitive weather tracking application | `Flutter` `REST APIs` |
+| **EduLearn AI** | Intelligent course recommendation engine and platform | `MongoDB` `Express` `React` `Node` |
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunjai10&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunjai10&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
+
 <br/>
+
+## 📈 Open Source Contributions & Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunjai10&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjunjai10&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunjai10&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1&height=100&section=footer" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunjai10&theme=react-dark&hide_border=true&bg_color=00000000&color=38bdf8&line=38bdf8&point=ffffff" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- Unique Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
